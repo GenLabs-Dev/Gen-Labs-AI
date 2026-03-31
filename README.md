@@ -10,12 +10,5 @@ Project Gen isn't just an optimization script; it's a **Synchronized Intelligenc
 - **Thermal Control:** No overheating. The system stays cold because it's efficient, not forced.
 - **Dynamic Load:** Synchronized `uptime` management.
 
-## 📊 Technical Stats (Moto G30 Testing)
-- **High Demand Load:** 6.00+ (Extreme Responsiveness)
-- **Idle Recovery:** 0.51 (Cold & Clean)
-- **Battery Sync:** Optimized charging cycles while active.
-
-## 🛠️ How to Test
-Coming soon... We are currently calibrating the synchronization for the first Public Beta.
-
-*Developed by Gen | Argentina 🇦🇷*
+### 💡 How to use it?
+-First boot, grant root permissions and reboot *Developed by Gen | Argentina 🇦🇷*
